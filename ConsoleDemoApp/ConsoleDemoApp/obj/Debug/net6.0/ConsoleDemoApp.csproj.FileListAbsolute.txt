@@ -1,0 +1,14 @@
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\net6.0\ConsoleDemoApp.exe
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\net6.0\ConsoleDemoApp.deps.json
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\net6.0\ConsoleDemoApp.runtimeconfig.json
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\net6.0\ConsoleDemoApp.dll
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\net6.0\ConsoleDemoApp.pdb
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.AssemblyInfoInputs.cache
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.AssemblyInfo.cs
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.dll
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\refint\ConsoleDemoApp.dll
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.pdb
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ConsoleDemoApp.genruntimeconfig.cache
+C:\Users\Simeon Agboegbulem\source\repos\PlayGround\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\net6.0\ref\ConsoleDemoApp.dll
